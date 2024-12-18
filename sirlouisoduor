@@ -58,5 +58,44 @@ Personal Blog
 Did you know? I once helped troubleshoot a network issue at a local startup, and it turned out to be a single faulty cable! It’s small wins like these that keep me motivated to grow in IT support as well as development. 😊
 
 Thanks for visiting my profile! 🚀
+
+
+> Hello there! I am Tahseen Rahman
+
+
+「 From Dhaka, Bangladesh 」
+「 Software Engineer (Backend) 」
+「 B.Sc (Engg), Computer Science & Engineering @ International University of Scholars 」
+
+
+
+🌱 I’m currently learning advanced Django, React and Nixos customization
+
+❓ Ask me about anything related to Django Framework and Python related technologies
+
+⚡ Fun fact: I require extra space just to make space!
+
+🌐 Socials:
+Facebook LinkedIn Outlook
+
+💻 Tech Stack:
+Python Django DjangoREST GraphQL Postgres MySQL SQL JWT C Docker Latex Git Postman Swagger Nginx HTML5 JavaScript React Vite
+
+
+
+ A little more about me...
+about_me = {
+  pronouns: "he" | "him",
+  code: [Python, Django, Django Rest Framework],
+  tools: [Docker, Postman, Pycharm, Git],
+  os: [windows, ubuntu, mint, nixos],
+  architecture: ["microservices", "model view controler"],
+  goal: "Wanna learn and explore technologies as much I can."
+}
+✍️ Random Dev Quote
+
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+
 I look forward to collaborating with you and making an impact in the tech world. Let's code and innovate together! 💻🌍
 
